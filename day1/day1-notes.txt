@@ -1,0 +1,3 @@
+Day 1 - Started Linux + Git Journey
+Goal: Cloud + DevOps career by 2027
+Learned Today: basic Linux commands, Git setup, project folder
